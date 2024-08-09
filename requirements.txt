@@ -1,0 +1,10 @@
+arrow==1.3.0
+pandas==2.2.1
+loguru==0.7.0
+pandas==2.2.1
+gradio
+openai
+json_repair
+pandarallels
+python-dotenv
+geopy
