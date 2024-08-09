@@ -5,7 +5,7 @@
   <a href="https://github.com/github_username/repo_name">
     <img src="src/lino.jpg" alt="Logo" width="100" height="100">
   </a>
-<h3 align="center">Japan_travel_expert</h3>
+<h3 align="center">Itinerary Planner</h3>
 
 </div>
 
